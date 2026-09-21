@@ -1,3 +1,4 @@
+<img width="923" height="877" alt="WhatsApp Image 2026-09-21 at 17 50 47" src="https://github.com/user-attachments/assets/ef1aa241-90cd-447a-8c44-ddff0dad8004" />
 <img width="1671" height="941" alt="ChatGPT Image 21 de set  de 2026, 13_53_53" src="https://github.com/user-attachments/assets/0385397a-6fa8-4739-90f6-95cc7246b3c0" />
 
 
@@ -31,7 +32,7 @@ O projeto foi construído no Databricks, usando um Genie Agent conectado a um pi
 
 **Atrasos por aeroporto:**
 
-<img width="1092" height="882" alt="WhatsApp Image 2026-09-21 at 17 45 56" src="https://github.com/user-attachments/assets/ab17dc5c-58bf-4e4b-b1f5-77481c88798b" />
+<img width="923" height="877" alt="WhatsApp Image 2026-09-21 at 17 50 47" src="https://github.com/user-attachments/assets/f1176ca7-4868-4ca3-937c-70215095d586" />
 
 
 ## Tecnologias
