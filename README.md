@@ -23,6 +23,17 @@ O projeto foi construído no Databricks, usando um Genie Agent conectado a um pi
 - Distribuição de voos por companhia aérea
 - Estrutura e relação entre as tabelas do pipeline
 
+### Exemplos de análise
+
+**Pontualidade e cancelamento por companhia aérea:**
+
+<img width="926" height="889" alt="1ad9656b-b154-4a93-a4c8-d083b209407e" src="https://github.com/user-attachments/assets/5ab5564b-94bc-4582-bb5f-dbf0f5babdc6" />
+
+**Atrasos por aeroporto:**
+
+<img width="1092" height="882" alt="WhatsApp Image 2026-09-21 at 17 45 56" src="https://github.com/user-attachments/assets/ab17dc5c-58bf-4e4b-b1f5-77481c88798b" />
+
+
 ## Tecnologias
 
 Databricks, SQL, Python, Genie Agents
