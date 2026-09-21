@@ -30,4 +30,4 @@ Databricks, SQL, Python, Genie Agents
 
 ## Créditos
 
-Projeto desenvolvido com base no curso Imersão de Engenharia de dado com IA da Alura, adaptado e implementado por mim.
+Projeto desenvolvido com base no curso Imersão Engenharia de Dados com IA da Alura, adaptado e implementado por mim.
