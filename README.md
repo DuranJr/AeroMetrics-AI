@@ -22,11 +22,11 @@ O projeto foi construído no Databricks, usando um Genie Agent conectado a um pi
 
 **Pontualidade e cancelamento por companhia aérea:**
 
-<img width="899" height="868" alt="WhatsApp Image 2026-09-21 at 17 57 56" src="https://github.com/user-attachments/assets/96d6954c-6148-4b73-84e2-f87792807301" />
+<img width="899" height="792" alt="WhatsApp Image 2026-09-21 at 18 11 06" src="https://github.com/user-attachments/assets/5a71be89-111f-4eeb-a785-aaaf54d5b288" />
 
 **Atrasos por aeroporto:**
 
-<img width="1073" height="838" alt="WhatsApp Image 2026-09-21 at 18 00 16" src="https://github.com/user-attachments/assets/915ec389-daf3-43e2-871d-b6854c137da2" />
+<img width="1084" height="736" alt="WhatsApp Image 2026-09-21 at 18 09 44" src="https://github.com/user-attachments/assets/feea2071-e851-42cf-be82-a5ee6b9bbdbd" />
 
 ## Tecnologias
 
