@@ -1,4 +1,6 @@
-<img width="640" height="360" alt="AeroMetrics_AI_640x360" src="https://github.com/user-attachments/assets/3cd95820-b089-4291-9799-d4722c82b176" />
+<img width="1671" height="941" alt="ChatGPT Image 21 de set  de 2026, 13_53_53" src="https://github.com/user-attachments/assets/0385397a-6fa8-4739-90f6-95cc7246b3c0" />
+
+
 # AeroMetrics AI
 
 Agente de IA para análise de pontualidade, atrasos e cancelamentos de voos no Brasil, utilizando dados públicos do VRA (Voo Regular Ativo) da ANAC entre agosto de 2025 e julho de 2026.
