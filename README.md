@@ -1,11 +1,4 @@
-<img width="923" height="877" alt="WhatsApp Image 2026-09-21 at 17 50 47" src="https://github.com/user-attachments/assets/ef1aa241-90cd-447a-8c44-ddff0dad8004" />
 <img width="1671" height="941" alt="ChatGPT Image 21 de set  de 2026, 13_53_53" src="https://github.com/user-attachments/assets/0385397a-6fa8-4739-90f6-95cc7246b3c0" />
-
-
-# AeroMetrics AI
-
-Agente de IA para análise de pontualidade, atrasos e cancelamentos de voos no Brasil, utilizando dados públicos do VRA (Voo Regular Ativo) da ANAC entre agosto de 2025 e julho de 2026.
-
 ## Sobre o projeto
 
 O projeto foi construído no Databricks, usando um Genie Agent conectado a um pipeline de dados estruturado em camadas (arquitetura medalhão), que trata os dados brutos da ANAC até chegar em uma base pronta para consultas em linguagem natural.
