@@ -22,12 +22,11 @@ O projeto foi construído no Databricks, usando um Genie Agent conectado a um pi
 
 **Pontualidade e cancelamento por companhia aérea:**
 
-<img width="926" height="889" alt="1ad9656b-b154-4a93-a4c8-d083b209407e" src="https://github.com/user-attachments/assets/5ab5564b-94bc-4582-bb5f-dbf0f5babdc6" />
+<img width="899" height="868" alt="WhatsApp Image 2026-09-21 at 17 57 56" src="https://github.com/user-attachments/assets/96d6954c-6148-4b73-84e2-f87792807301" />
 
 **Atrasos por aeroporto:**
 
-<img width="923" height="877" alt="WhatsApp Image 2026-09-21 at 17 50 47" src="https://github.com/user-attachments/assets/f1176ca7-4868-4ca3-937c-70215095d586" />
-
+<img width="1073" height="838" alt="WhatsApp Image 2026-09-21 at 18 00 16" src="https://github.com/user-attachments/assets/915ec389-daf3-43e2-871d-b6854c137da2" />
 
 ## Tecnologias
 
@@ -35,8 +34,10 @@ Databricks, SQL, Python, Genie Agents
 
 ---
 
-*Projeto em desenvolvimento como parte de estudos e portfólio pessoal.*    
-
 ## Créditos
 
 Projeto desenvolvido com base no curso Imersão Engenharia de Dados com IA da Alura, adaptado e implementado por mim.
+
+---
+
+*Projeto em desenvolvimento como parte de estudos e portfólio pessoal.*
